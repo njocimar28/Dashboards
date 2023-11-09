@@ -1,5 +1,9 @@
 # Dashboards
 
+## Discografia Spotify
+[<img src="https://github.com/njocimar28/image/blob/01ff3093a8f3258a7b32ac5d30571d48af84f3df/Captura%20de%20tela%202023-11-09%20191732.png" width="200">](https://app.powerbi.com/groups/me/reports/6e6c62e3-83d9-49a2-9899-d51b52608747/ReportSectiondced97e110734cbd7357?experience=power-bi)
+[<img src="https://github.com/njocimar28/image/blob/01ff3093a8f3258a7b32ac5d30571d48af84f3df/Captura%20de%20tela%202023-11-09%20191745.png" width="300">](https://app.powerbi.com/groups/me/reports/6e6c62e3-83d9-49a2-9899-d51b52608747/ReportSectiondced97e110734cbd7357?experience=power-bi)
+
 ## Análise dos dados do Enem 2022 
 [<img src="https://github.com/njocimar28/image/blob/e7643fbea60936dee93302f1d15c70046a80134b/Captura%20de%20tela%202023-09-15%20173055.png" width="400">](https://app.powerbi.com/groups/me/reports/7dd5e853-8d1d-4a95-84f8-ee643acd417c?ctid=07e430a4-97fa-447c-afb8-f71f19435a7d&pbi_source=linkShare)
 
