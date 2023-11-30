@@ -1,7 +1,7 @@
 # Dashboards
 
 ## Trilha de conhecimento
-[<img src="https://raw.githubusercontent.com/njocimar28/njocimar28/b4f625c48f36c14481bb3147edfbf93c000c31b8/Cursos.png" width="300">)](https://app.powerbi.com/view?r=eyJrIjoiOWQzMWM3OTktNmQ4Ny00ZGQ1LWE5MWMtYTg1N2Q2OTA4Y2Q0IiwidCI6IjA3ZTQzMGE0LTk3ZmEtNDQ3Yy1hZmI4LWY3MWYxOTQzNWE3ZCJ9)
+[<img src="https://raw.githubusercontent.com/njocimar28/njocimar28/b4f625c48f36c14481bb3147edfbf93c000c31b8/Cursos.png" width="400">](https://app.powerbi.com/view?r=eyJrIjoiOWQzMWM3OTktNmQ4Ny00ZGQ1LWE5MWMtYTg1N2Q2OTA4Y2Q0IiwidCI6IjA3ZTQzMGE0LTk3ZmEtNDQ3Yy1hZmI4LWY3MWYxOTQzNWE3ZCJ9)
 
 ## Discografia Spotify
 [<img src="https://github.com/njocimar28/Spotify/blob/bcc305aeb70f3efc67745f921bdabfae69804037/imagens/Captura%20de%20tela%202023-11-09%20191732.png" width="300">](https://app.powerbi.com/groups/me/reports/6e6c62e3-83d9-49a2-9899-d51b52608747/ReportSectiondced97e110734cbd7357?experience=power-bi)
