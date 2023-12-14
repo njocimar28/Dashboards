@@ -3,6 +3,9 @@
 ## Trilha de conhecimento
 [<img src="https://raw.githubusercontent.com/njocimar28/njocimar28/b4f625c48f36c14481bb3147edfbf93c000c31b8/Cursos.png" width="400">](https://app.powerbi.com/view?r=eyJrIjoiOWQzMWM3OTktNmQ4Ny00ZGQ1LWE5MWMtYTg1N2Q2OTA4Y2Q0IiwidCI6IjA3ZTQzMGE0LTk3ZmEtNDQ3Yy1hZmI4LWY3MWYxOTQzNWE3ZCJ9)
 
+## Dashboard Interativo temporada Regular Lakers 2023/24
+[<img src="https://github.com/njocimar28/nba/blob/fc4a7d9af38814b6aeddc782dae39cb37e7bf7fd/Dashboard%20Lakers.png" width="400">](https://app.powerbi.com/view?r=eyJrIjoiMmQ3ZTMyMmYtZWE1Yy00M2M4LWIxYzUtNjA2NTFkMmQyNjhjIiwidCI6IjA3ZTQzMGE0LTk3ZmEtNDQ3Yy1hZmI4LWY3MWYxOTQzNWE3ZCJ9)
+
 ## Discografia Spotify
 [<img src="https://github.com/njocimar28/Spotify/blob/bcc305aeb70f3efc67745f921bdabfae69804037/imagens/Captura%20de%20tela%202023-11-09%20191732.png" width="300">](https://app.powerbi.com/view?r=eyJrIjoiMmExMWUxOWMtMzJlZS00ZmQ5LTgyYmQtNTU2ZWIzOTIyMTA0IiwidCI6IjA3ZTQzMGE0LTk3ZmEtNDQ3Yy1hZmI4LWY3MWYxOTQzNWE3ZCJ9)
 [<img src="https://github.com/njocimar28/Spotify/blob/bcc305aeb70f3efc67745f921bdabfae69804037/imagens/Captura%20de%20tela%202023-11-09%20191745.png" width="300">](https://app.powerbi.com/view?r=eyJrIjoiMmExMWUxOWMtMzJlZS00ZmQ5LTgyYmQtNTU2ZWIzOTIyMTA0IiwidCI6IjA3ZTQzMGE0LTk3ZmEtNDQ3Yy1hZmI4LWY3MWYxOTQzNWE3ZCJ9)
