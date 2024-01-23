@@ -23,4 +23,4 @@
 [<img src="https://github.com/njocimar28/nba/blob/41df95073b414c9d49838f3d1591db241fcd3e59/Comparativo%20Michael%20Jordan%2C%20LeBron%20James%20e%20Luka%20Doncic.gif" width="400">](https://app.powerbi.com/view?r=eyJrIjoiZTU4YjVmNjAtYTZiMS00YzkzLTgxZTYtNjEyNTQwMDkyNGFlIiwidCI6IjA3ZTQzMGE0LTk3ZmEtNDQ3Yy1hZmI4LWY3MWYxOTQzNWE3ZCJ9)
 
 ## Perfil investidor
-[<img src="https://github.com/njocimar28/Perfil-Investidor/blob/60eb3f5168526fb28e4fd3e70ecad14234a61250/Dashboard%20dados%20de%20investimento.png" width="400">](https://app.powerbi.com/view?r=eyJrIjoiZjAxNTg1MDktMDY0ZC00MDIwLWIxMTEtMGE3Mjc0NTA5ZjAxIiwidCI6IjA3ZTQzMGE0LTk3ZmEtNDQ3Yy1hZmI4LWY3MWYxOTQzNWE3ZCJ9)
+[<img src="https://github.com/njocimar28/Perfil-Investidor/blob/3661792b989173c46b4b4e03bfd3d3c772ae8857/Dashboard%20J.%20Investimento.png" width="400">](https://app.powerbi.com/view?r=eyJrIjoiZjAxNTg1MDktMDY0ZC00MDIwLWIxMTEtMGE3Mjc0NTA5ZjAxIiwidCI6IjA3ZTQzMGE0LTk3ZmEtNDQ3Yy1hZmI4LWY3MWYxOTQzNWE3ZCJ9)
