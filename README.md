@@ -24,3 +24,6 @@
 
 ## Perfil investidor
 [<img src="https://github.com/njocimar28/Perfil-Investidor/blob/3661792b989173c46b4b4e03bfd3d3c772ae8857/Dashboard%20J.%20Investimento.png" width="400">](https://app.powerbi.com/view?r=eyJrIjoiZjAxNTg1MDktMDY0ZC00MDIwLWIxMTEtMGE3Mjc0NTA5ZjAxIiwidCI6IjA3ZTQzMGE0LTk3ZmEtNDQ3Yy1hZmI4LWY3MWYxOTQzNWE3ZCJ9)
+
+## Dados Abertos - CEAPS Senado 2019 à 2022
+[<img src="https://github.com/njocimar28/Dados-abertos-CEAPS/blob/9c071cb26b73feb02bed8ce611f81f4a9f855981/Dashboard%20-%20CEAPS.png" width="400">](https://app.powerbi.com/view?r=eyJrIjoiMTcxZmE5NTgtYTYwZS00YTUwLWI0MDEtNTRmYjY1NzgwNmI0IiwidCI6IjA3ZTQzMGE0LTk3ZmEtNDQ3Yy1hZmI4LWY3MWYxOTQzNWE3ZCJ9)
